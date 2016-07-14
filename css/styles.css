@@ -1,0 +1,16 @@
+.picture-text {
+	text-align: center;
+}
+
+div img {
+	text-align: center;
+	margin-righ: 10px;
+}
+
+img {
+	max-width: 100%;
+}
+
+span {
+	font-size: 40px;
+}
